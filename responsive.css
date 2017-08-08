@@ -1,0 +1,58 @@
+@media only screen and (max-width: 750px)
+{
+    #footer
+    {
+        text-align: center;
+        margin: 0;
+        padding: 0;
+    }
+    
+    #umiejetnosci
+    {
+        margin-bottom: 0px;
+    }
+    
+    #portfolio
+    {
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+    
+    #umiejetnosci #icon
+    {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    
+    #contact 
+    {
+        text-align: center;
+        
+    }
+    
+    #form
+    {
+        padding-top: 0px;
+    }
+    
+    #address
+    {
+        text-align: center;
+    }
+    
+    #form #submit
+    {
+        margin-left: 0px;
+        width: 80px;
+    }
+    
+}
+
+@media only screen and (max-width: 550px)
+{
+    #figure
+    {
+        width: 50vw;
+        height: 50vw;
+    }
+}
